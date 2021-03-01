@@ -62,7 +62,6 @@ namespace Movie_Night_Part_2
 
             #region Delete row in table database
             //Deletes also in contributing if id is valid
-
             //Console.WriteLine("\nDelete Actor in database");
             //MovieManager.DeleteActor(deleteActor);
             //Console.WriteLine($"SID: {deleteActor.Id}");
